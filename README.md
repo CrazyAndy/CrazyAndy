@@ -11,10 +11,10 @@
 </div>
 
 #  🙋 Hi there
-- 🧱 <font size="6">I am a Programmer and IOT Strategist from KM. I work as a lifestyle, product, and designer, program something for a diverse range of requests, including app(RN,Flutter), web page, backend(Java,Python), embedded.</font>
-- 🌱 <font size="6">I have worked as a programmer for 12 years,and I still love it.</font>
-- 🌳 <font size="6">I love the feeling when I solve the issue.</font>
-- 💬 <font size="6">Feel free to ask me about any questions, it would be nice if my experience can be helpful for you.</font>
-- 📫 <font size="6">How to reach me : crazyandyisfine@gmail.com</font>
+<div style="font-size:20px"> - 🧱 I am a Programmer and IOT Strategist from KM. I work as a lifestyle, product, and designer, program something for a diverse range of requests, including app(RN,Flutter), web page, backend(Java,Python), embedded.</div>
+<div style="font-size:20px"> - 🌱 I have worked as a programmer for 12 years,and I still love it.</div>
+<div style="font-size:20px"> - 🌳 I love the feeling when I solve the issue.</div>
+<div style="font-size:20px"> - 💬 Feel free to ask me about any questions, it would be nice if my experience can be helpful for you.</div>
+<div style="font-size:20px"> - 📫 How to reach me : crazyandyisfine@gmail.com</div>
 
 
