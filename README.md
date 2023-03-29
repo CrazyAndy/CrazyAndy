@@ -19,11 +19,11 @@
 </div>
 
 #  🙋 Hi there
-- 🧱 My major is the Civil Engineering and I quitted my job on this field in the February of 2022.
-- 🌱 I wanna be a programmer actually so I spent about five months teaching myself programming at home.
-- 🌳 Now, I'm a Java programmer working in Changsha.
+- 🧱 I am a Programmer and IOT Strategist from KM. I work as a lifestyle, product, and designer, program something for a diverse range of requests, including app(RN,Flutter), web page, backend(Java,Python), embedded.
+- 🌱 I have worked as a programmer for 12 years,and I still love it.
+- 🌳 I love the feeling when I solve the issue.
 - 💬 Feel free to ask me about any questions, it would be nice if my experience can be helpful for you.
-- 📫 How to reach me: higurashi-kagome@qq.com
+- 📫 How to reach me: crazyandyisfine@gmail.com
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -74,28 +74,4 @@
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
-
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
 </div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
